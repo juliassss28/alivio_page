@@ -1,3 +1,11 @@
 @import url(steles/variables.css);
 @import url(steles/basic.css);
 @import url(steles/header.css);
+@import url(steles/hero.css);
+@import url(steles/about.css);
+@import url(steles/card.css);
+@import url(steles/success.css);
+@import url(steles/product.css);
+@import url(steles/.person-card.css);
+@import url(steles/pricing.css);
+@import url(steles/mob-menu.css);
